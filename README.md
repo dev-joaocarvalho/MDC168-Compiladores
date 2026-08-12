@@ -1,2 +1,2 @@
-# MDC168---Compiladores
+# MDC168 - Compiladores
 Cristiano Lehrer
