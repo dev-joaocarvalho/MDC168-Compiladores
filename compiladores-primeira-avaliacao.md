@@ -546,7 +546,7 @@ Questões de múltipla escolha que caem nas provas mais recentes (2024.2, 2025.2
 - [x] Sei calcular FIRST e FOLLOW de qualquer gramática pequena em poucos minutos.
 - [x] Sei eliminar recursão à esquerda e fazer fatoração à esquerda mecanicamente.
 - [x] Sei construir a tabela M completa a partir de uma gramática do zero.
-- [ ] Sei simular a execução do analisador preditivo tabular (pilha/entrada/derivação).
+- [x] Sei simular a execução do analisador preditivo tabular (pilha/entrada/derivação).
 - [ ] Sei simular a análise por precedência de operadores (pilha/relação/entrada/ação/handle).
 - [ ] Sei montar a pilha de ativação e resolver escopo dinâmico, e sei diferenciar de escopo estático.
 - [ ] Revisei os tópicos conceituais estilo Enade/Poscomp.
