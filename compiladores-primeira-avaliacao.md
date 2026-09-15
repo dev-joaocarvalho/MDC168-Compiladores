@@ -540,8 +540,8 @@ Questões de múltipla escolha que caem nas provas mais recentes (2024.2, 2025.2
 ## 14. Checklist final
 
 - [x] Sei explicar o que é um compilador e diferenciar dos outros tipos de tradutores.
-- [ ] Sei listar as fases de um compilador e o que cada uma detecta como erro.
-- [ ] Sei diferenciar análise top-down de bottom-up sem hesitar.
+- [x] Sei listar as fases de um compilador e o que cada uma detecta como erro.
+- [x] Sei diferenciar análise top-down de bottom-up sem hesitar.
 - [ ] Sei escrever um programa SIMPLE com validação de entrada e laço, do zero.
 - [ ] Sei calcular FIRST e FOLLOW de qualquer gramática pequena em poucos minutos.
 - [ ] Sei eliminar recursão à esquerda e fazer fatoração à esquerda mecanicamente.
